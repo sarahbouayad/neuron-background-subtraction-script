@@ -18,3 +18,4 @@
 #### - OpenCV
 #### - NumPy
 #### - TiffFile 
+#### - Matplotlib 
